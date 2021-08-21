@@ -54,17 +54,17 @@
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/deiga",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/in/timosand",
                 "style": "icon",
                 "icon_class": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/deiga",
+                "style": "icon",
+                "icon_class": "instagram",
                 "new_window": true
             }
         ]
