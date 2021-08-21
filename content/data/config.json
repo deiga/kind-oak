@@ -2,7 +2,7 @@
     "title": "Home of deiga",
     "path_prefix": "/",
     "layout_style": "overflow",
-    "palette": "blue",
+    "palette": "violet",
     "header": {
         "title": "Stackbit Fresh",
         "tagline": "Header Tagline",
