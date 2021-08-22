@@ -66,6 +66,13 @@
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
+            },
+            {
+                "label": "Polywork",
+                "url": "https://www.polywork.com/deiga",
+                "style": "icon",
+                "icon_class": "polywork",
+                "new_window": true
             }
         ]
     },
