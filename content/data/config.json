@@ -51,10 +51,10 @@
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/deiga",
+                "label": "Stackoverflow",
+                "url": "https://stackoverflow.com/users/608454/deiga",
                 "style": "icon",
-                "icon_class": "instagram",
+                "icon_class": "stackoverflow",
                 "new_window": true
             },
             {
@@ -62,6 +62,27 @@
                 "url": "https://www.polywork.com/deiga",
                 "style": "icon",
                 "icon_class": "polywork",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/deiga",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "Last.fm",
+                "url": "https://www.last.fm/user/Deiga",
+                "style": "icon",
+                "icon_class": "last-fm",
+                "new_window": true
+            },
+            {
+                "label": "Goodreads",
+                "url": "https://www.goodreads.com/user/show/4190548-timo",
+                "style": "icon",
+                "icon_class": "goodreads",
                 "new_window": true
             }
         ]
