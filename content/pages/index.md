@@ -45,6 +45,6 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Fresh Theme
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Open-pit mine of deiga's thoughts
 layout: advanced
 ---
