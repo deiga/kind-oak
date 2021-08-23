@@ -38,7 +38,7 @@ seo:
       value: Stackbit Fresh Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Open-pit mine of deiga's thoughts
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
