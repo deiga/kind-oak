@@ -1,12 +1,12 @@
 {
-    "title": "Home of deiga",
+    "title": "Sandstone Quarry",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "violet",
     "header": {
-        "title": "Home of deiga",
-        "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
+        "title": "Sandstone Quarry",
+        "tagline": "Open-pit mine of my thoughts",
+        "profile_img": "images/small.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
@@ -17,8 +17,8 @@
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about/",
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
