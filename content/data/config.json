@@ -1,12 +1,12 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "Sandstone Quarry",
     "path_prefix": "/",
     "layout_style": "overflow",
-    "palette": "blue",
+    "palette": "violet",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
+        "title": "Sandstone Quarry",
+        "tagline": "Open-pit mine of my thoughts",
+        "profile_img": "images/small.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
@@ -22,16 +22,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
@@ -41,42 +31,64 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/deiga",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/deiga",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/timosand",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
             },
             {
-                "label": "DEV",
-                "url": "https://dev.to/",
+                "label": "Stackoverflow",
+                "url": "https://stackoverflow.com/users/608454/deiga",
                 "style": "icon",
-                "icon_class": "dev",
+                "icon_class": "stackoverflow",
+                "new_window": true
+            },
+            {
+                "label": "Polywork",
+                "url": "https://www.polywork.com/deiga",
+                "style": "icon",
+                "icon_class": "polywork",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/deiga",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "Last.fm",
+                "url": "https://www.last.fm/user/Deiga",
+                "style": "icon",
+                "icon_class": "last-fm",
+                "new_window": true
+            },
+            {
+                "label": "Goodreads",
+                "url": "https://www.goodreads.com/user/show/4190548-timo",
+                "style": "icon",
+                "icon_class": "goodreads",
                 "new_window": true
             }
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-    }
+        "content": "&copy; deiga. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+    },
+    "domain": "https://timosand.com"
 }

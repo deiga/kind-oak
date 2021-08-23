@@ -4,55 +4,47 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, I'm Stackbit Fresh."
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    title: Welcome to the Sandstone Quarry.
+    content: |
+      Here you and me can mine for pieces of my knowledge and thoughts.
   - section_id: about
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      *Father, Software Programmer, Engineering Manager, Social Justice Warrior,
+      Gamer, Vegetarian.*
+
+
+      Hi I'm Timo Sand, I write software for a living and love helping people.
+      This site is a collection of my knowledge and thoughts, although it is
+      still very much a work in progress. I expect to produce content about
+      writing software, leading people and teams, bouldering and parenthood
     actions:
       - label: Contact Me
         url: /contact
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
     posts_number: 4
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
+    title: Recent posts
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Sandstone Quarry
+  description: Open-pit mine of deiga's thoughts
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Sandstone Quarry
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Open-pit mine of deiga's thoughts
       keyName: property
-    - name: 'og:image'
-      value: images/4.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Sandstone Quarry
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
-    - name: 'twitter:image'
-      value: images/4.jpg
-      relativeUrl: true
+      value: Open-pit mine of deiga's thoughts
 layout: advanced
 ---
