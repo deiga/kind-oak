@@ -43,7 +43,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Sandstone Quarry
     - name: 'twitter:description'
       value: Open-pit mine of deiga's thoughts
 layout: advanced
