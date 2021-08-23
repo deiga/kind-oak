@@ -35,7 +35,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Sandstone Quarry
       keyName: property
     - name: 'og:description'
       value: Open-pit mine of deiga's thoughts
