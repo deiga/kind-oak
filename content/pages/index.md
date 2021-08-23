@@ -46,9 +46,5 @@ seo:
       value: Sandstone Quarry
     - name: 'twitter:description'
       value: Open-pit mine of deiga's thoughts
-    - name: 'og:image'
-      value: /images/small.jpg
-      keyName: property
-      relativeUrl: true
 layout: advanced
 ---
