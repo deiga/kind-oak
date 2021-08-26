@@ -18,7 +18,7 @@ module.exports = {
                         __metadata: object.__metadata,
                         ...object.frontmatter,
                         markdown_content: object.markdown || null
-                    }
+                    };
                 }
                 return object;
             });

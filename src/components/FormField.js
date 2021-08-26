@@ -20,41 +20,41 @@ export default class FormField extends React.Component {
         }
 
         switch (inputType) {
-            case 'checkbox':
-                return (
-                    <div className="form-group form-checkbox">
-                        <input type="checkbox" id={name} name={name} {...attr} />
-                        {label && <label htmlFor={name}>{label}</label>}
+        case 'checkbox':
+            return (
+                <div className="form-group form-checkbox">
+                    <input type="checkbox" id={name} name={name} {...attr} />
+                    {label && <label htmlFor={name}>{label}</label>}
+                </div>
+            );
+        case 'select':
+            return (
+                <div className="form-group">
+                    {label && <label htmlFor={name}>{label}</label>}
+                    <div className="form-select-wrap">
+                        <select id={name} name={name} {...attr}>
+                            {defaultValue && <option value="">{defaultValue}</option>}
+                            {_.map(options, (option, index) => (
+                                <option key={index} value={option}>{option}</option>
+                            ))}
+                        </select>
                     </div>
-                );
-            case 'select':
-                return (
-                    <div className="form-group">
-                        {label && <label htmlFor={name}>{label}</label>}
-                        <div className="form-select-wrap">
-                            <select id={name} name={name} {...attr}>
-                                {defaultValue && <option value="">{defaultValue}</option>}
-                                {_.map(options, (option, index) => (
-                                    <option key={index} value={option}>{option}</option>
-                                ))}
-                            </select>
-                        </div>
-                    </div>
-                );
-            case 'textarea':
-                return (
-                    <div className="form-group">
-                        {label && <label htmlFor={name}>{label}</label>}
-                        <textarea name={name} id={name} rows="7" {...(defaultValue ? { placeholder: defaultValue } : null)} {...attr} />
-                    </div>
-                );
-            default:
-                return (
-                    <div className="form-group">
-                        {label && <label htmlFor={name}>{label}</label>}
-                        <input type={inputType} name={name} id={name} {...(defaultValue ? { placeholder: defaultValue } : null)} {...attr} />
-                    </div>
-                );
+                </div>
+            );
+        case 'textarea':
+            return (
+                <div className="form-group">
+                    {label && <label htmlFor={name}>{label}</label>}
+                    <textarea name={name} id={name} rows="7" {...(defaultValue ? { placeholder: defaultValue } : null)} {...attr} />
+                </div>
+            );
+        default:
+            return (
+                <div className="form-group">
+                    {label && <label htmlFor={name}>{label}</label>}
+                    <input type={inputType} name={name} id={name} {...(defaultValue ? { placeholder: defaultValue } : null)} {...attr} />
+                </div>
+            );
         }
     }
 }

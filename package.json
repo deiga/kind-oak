@@ -1,6 +1,6 @@
 {
-  "name": "fresh-nextjs",
-  "description": "A Stackbit Fresh theme built with Next.js",
+  "name": "kind-oak",
+  "description": "My personal site built with Stackbit & Next.js",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -8,7 +8,9 @@
     "develop": "next dev",
     "fetch": "sourcebit fetch",
     "build": "next build && next export",
-    "start": "next start"
+    "start": "next start",
+    "lint": "eslint . --cache --fix",
+    "pretest": "npm run lint"
   },
   "dependencies": {
     "babel-runtime": "6.26.0",
@@ -30,6 +32,9 @@
     "webpack": "5.51.1"
   },
   "devDependencies": {
-    "prettier": "2.3.2"
+    "eslint": "^7.32.0",
+    "prettier": "2.3.2",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-react": "^7.24.0"
   }
 }

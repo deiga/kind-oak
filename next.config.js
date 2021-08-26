@@ -18,5 +18,5 @@ module.exports = {
         config.plugins.push(new webpack.WatchIgnorePlugin([[/\/content\//]]));
         return config;
     },
-    target: "serverless"
+    target: 'serverless'
 };

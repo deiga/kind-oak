@@ -56,10 +56,10 @@ export default class Header extends React.Component {
                         >
                             <Action action={action} />
                         </li>
-                    )
+                    );
                 })}
             </ul>
-        )
+        );
     }
 
     renderSocialLinks(socialLinks) {
@@ -94,10 +94,10 @@ export default class Header extends React.Component {
                                 label
                             }
                         </Link>
-                    )
+                    );
                 })}
             </div>
-        )
+        );
     }
 
     render() {
