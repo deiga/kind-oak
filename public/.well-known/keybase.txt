@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/deiga
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://timosand.com
+  * I am deiga (https://keybase.io/deiga) on keybase.
+  * I have a public key ASBDVRoTd-Azt4_jPER9Z6P29lURj0sh3YxsApxEMZ13-Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010900d5c67e809b408215ff194937dbd9c13ecf1627298f765c517c4cf12d694e0a",
+      "host": "keybase.io",
+      "kid": "012043551a1377e033b78fe33c447d67a3f6f655118f4b21dd8c6c029c44319d77f80a",
+      "uid": "c489218e923febd061f08ba6ebafcf19",
+      "username": "deiga"
+    },
+    "merkle_root": {
+      "ctime": 1630047842,
+      "hash": "baced3376b7e0f70eab4d7c6f8301167c1c801b1b5df83f1bef9ffcb9b5f1e658e46de146cd38e40142413f79e51ab37a73d52e280de8462d1837f972dc7b68a",
+      "hash_meta": "697303618afeed7abf8160bb37782c4b51e1c9c364b605707dc9c5d5c06e27f1",
+      "seqno": 20647162
+    },
+    "service": {
+      "entropy": "M0ul68D9pgwWjWoWJ8d7KLry",
+      "hostname": "timosand.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1630047943,
+  "expire_in": 504576000,
+  "prev": "8bb89ef0eb333beac7c29cd93d7cee2a595d79bd005c81d1138a2c0c7a0025e4",
+  "seqno": 77,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQ1UaE3fgM7eP4zxEfWej9vZVEY9LId2MbAKcRDGdd/gKp3BheWxvYWTESpcCTcQgi7ie8OszO+rHwpzZPXzuKlldeb0AXIHRE4osDHoAJeTEICT6OFQDaMBLyYuNfZqU1HVN+S+/pcZtAmQVBGT9zuFFAgHCo3NpZ8RAASFwCkYjLpX/OtA9RmsI9br11kzZ2ep72myC/Xl9UXPr5t+QlmSqXYW8SZL37eLPeKow3RCwCImqyLwME75CAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM+zN3+mvL3uTO677PP7HSEuZ1Vrb/NiQstJ7bTH6Znvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/deiga
+
+==================================================================
