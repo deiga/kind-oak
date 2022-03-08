@@ -26,15 +26,15 @@
     "react-helmet": "6.1.0",
     "react-html-parser": "2.0.2",
     "react-script-tag": "1.1.2",
-    "sourcebit": "0.11.0",
-    "sourcebit-source-filesystem": "0.1.6",
-    "sourcebit-target-next": "0.7.1",
-    "webpack": "5.65.0"
+    "sourcebit": "0.11.1",
+    "sourcebit-source-filesystem": "0.2.0",
+    "sourcebit-target-next": "0.8.1",
+    "webpack": "5.70.0"
   },
   "devDependencies": {
-    "eslint": "8.5.0",
+    "eslint": "8.10.0",
     "prettier": "2.5.1",
-    "eslint-plugin-import": "2.25.3",
-    "eslint-plugin-react": "7.28.0"
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-react": "7.29.3"
   }
 }
