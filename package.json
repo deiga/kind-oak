@@ -28,13 +28,13 @@
     "react-script-tag": "1.1.2",
     "sourcebit": "0.11.1",
     "sourcebit-source-filesystem": "0.2.0",
-    "sourcebit-target-next": "0.8.1",
-    "webpack": "5.72.0"
+    "sourcebit-target-next": "0.8.2",
+    "webpack": "5.72.1"
   },
   "devDependencies": {
-    "eslint": "8.15.0",
+    "eslint": "8.16.0",
     "prettier": "2.6.2",
     "eslint-plugin-import": "2.26.0",
-    "eslint-plugin-react": "7.29.4"
+    "eslint-plugin-react": "7.30.0"
   }
 }
