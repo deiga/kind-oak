@@ -22,7 +22,7 @@
     "next": "10.2.3",
     "node-sass": "5.0.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2",
+    "react-dom": "19.2.8",
     "react-helmet": "6.1.0",
     "react-html-parser": "2.0.2",
     "react-script-tag": "1.1.2",
